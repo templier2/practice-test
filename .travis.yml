@@ -2,5 +2,7 @@ language: ruby
 rvm:
  - 2.2
  - jruby
+before_install:
+  - gem install rake
 notifications:
   slack: templier:qgmeHE2ugr9Yms1LqM55A0qd
