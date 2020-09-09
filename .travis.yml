@@ -2,3 +2,5 @@ nguage: ruby
 rvm:
  - 2.2
  - jruby
+notifications:
+  slack: templier:qgmeHE2ugr9Yms1LqM55A0qd
