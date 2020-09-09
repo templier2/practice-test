@@ -1,4 +1,1 @@
-My first line in project
-Paris is the capital of France
-This is an indexed part
-This is an unindexed part
+newcommit
