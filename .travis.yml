@@ -3,11 +3,9 @@ node_js:
   - 0.8
 before_install:
  - sudo apt-get update -qq
- - sudo apt-get install -qq python3.2 python2.7
-
+ - sudo apt-get install -qq python2.7
 python:
- - "2.7"
-
+ - 2.7
 script: ./run_build.sh
 notifications:
   slack: templier:qgmeHE2ugr9Yms1LqM55A0qd
