@@ -1,6 +1,6 @@
-language: ruby
+language: node_js
 rvm:
- - 2.2
+ - 2.3
  - jruby
 before_install:
   - gem install bundler
